@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asets Management</string>
+    <string name="number_fil">There\'s no phone number</string>
+    <string name="text_about">About</string>
+    <string name="text_signout">Sign Out</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881259471790",
+    "firebase_url": "https://manajement-aset.firebaseio.com",
+    "project_id": "manajement-aset",
+    "storage_bucket": "manajement-aset.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881259471790:android:630f37c26798cfb3745e3f",
+        "android_client_info": {
+          "package_name": "com.dutyinsdit.manajementaset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881259471790-ploalh2on2lk6etced3phbr70942mj7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dutyinsdit.manajementaset",
+            "certificate_hash": "c855af08089ea8b77fdcdca212e2782a0e04fd3a"
+          }
+        },
+        {
+          "client_id": "881259471790-378ecr47p80s931uaf171gv8v42g0jrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAcgW1AfatTAhli0YLXJW65DkMt3d4kHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881259471790-378ecr47p80s931uaf171gv8v42g0jrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

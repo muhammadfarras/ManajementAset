@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/baseline_list_24"
+        android:contentDescription="Keluar dari aplikasi"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/text_about"
+        android:contentDescription="Keluar dari aplikasi"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/keluar"
+        android:title="@string/text_signout"
+        android:icon="@drawable/baseline_add_task_24"
+        android:contentDescription="Keluar dari aplikasi"
+        app:showAsAction="never"
+        />
+
+</menu>
